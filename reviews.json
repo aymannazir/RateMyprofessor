@@ -1,0 +1,65 @@
+{
+    "reviews": [
+      {
+        "Professor": "Dr. Alice Johnson",
+        "Subject": "Computer Science",
+        "review": "Engaging lectures and clear explanations. Highly recommended!",
+        "stars": 5
+      },
+      {
+        "Professor": "Dr. Bob Smith",
+        "Subject": "Mathematics",
+        "review": "Difficult subject but very knowledgeable. Needs to improve teaching methods.",
+        "stars": 3
+      },
+      {
+        "Professor": "Dr. Clara Lee",
+        "Subject": "Physics",
+        "review": "Passionate about the subject, but classes can be overwhelming.",
+        "stars": 4
+      },
+      {
+        "Professor": "Dr. David Brown",
+        "Subject": "History",
+        "review": "Great storyteller and very engaging. Classes are always interesting.",
+        "stars": 5
+      },
+      {
+        "Professor": "Dr. Emily Davis",
+        "Subject": "Chemistry",
+        "review": "Challenging material but provides excellent support and resources.",
+        "stars": 4
+      },
+      {
+        "Professor": "Dr. Frank Wilson",
+        "Subject": "Biology",
+        "review": "Very approachable and helpful, but sometimes disorganized.",
+        "stars": 3
+      },
+      {
+        "Professor": "Dr. Grace Martinez",
+        "Subject": "Economics",
+        "review": "Well-structured course and engaging lectures. A bit demanding.",
+        "stars": 4
+      },
+      {
+        "Professor": "Dr. Henry Moore",
+        "Subject": "Literature",
+        "review": "Passionate about literature and encourages deep analysis.",
+        "stars": 5
+      },
+      {
+        "Professor": "Dr. Ivy Clark",
+        "Subject": "Engineering",
+        "review": "Very knowledgeable, but the lectures can be hard to follow at times.",
+        "stars": 3
+      },
+      {
+        "Professor": "Dr. Jack Lee",
+        "Subject": "Philosophy",
+        "review": "Stimulating discussions and thought-provoking questions.",
+        "stars": 5
+      }
+    ]
+  }
+  
